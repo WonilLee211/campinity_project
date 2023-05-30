@@ -161,145 +161,47 @@
 
 ---
 
-### 👟 온보딩 화면
+## 개발에 기여한 화면
 
----
-
-<img src="./readme-images/Screenshot_20230217_104507_CAMPINITY.jpg"  width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_104514_CAMPINITY.jpg"  width="200" height="400"/>
-
-### 👟 로그인/ 회원가입 화면
-
----
-
-- 로그인
-<img src="./readme-images/Screenshot_20230217_104531_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_104557_CAMPINITY.jpg" width="200" height="400"/>
-
-- 회원가입    
-<img src="./readme-images/sign_up_user_info.png" width="200" height="400"/>
-<img src="./readme-images/sign_up_cancel.png" width="200" height="400"/>
-<img src="./readme-images/sign_up_welcome.png" width="200" height="400"/>
-
-### 🗺 홈
-
----
-
-<img src="./readme-images/Screenshot_20230217_104607_CAMPINITY.jpg" width="200" height="400"/>
-
-### 🗺 커뮤니티
-
----
 
 - 초기 화면
-<img src="./readme-images/Screenshot_20230217_104621_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_104628_CAMPINITY.jpg" width="200" height="400"/><br/>
 
-- 캠핑장 등록
-<img src="./readme-images/Screenshot_20230217_104645_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_104651_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_104741_CAMPINITY.jpg" width="200" height="400"/><br/>
+<img src="./readme-images/Screenshot_20230217_104621_CAMPINITY.jpg" width="200" height="400"/> <img src="./readme-images/Screenshot_20230217_104628_CAMPINITY.jpg" width="200" height="400"/><br/>
+
 
 - 캠핑장 등록 후 (구독, 클러스터링)
-<img src="./readme-images/Screenshot_20230217_104751_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_104755_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_174713_CAMPINITY.jpg" width="200" height="400"/><br/>
+
+<img src="./readme-images/Screenshot_20230217_104751_CAMPINITY.jpg" width="200" height="400"/> <img src="./readme-images/Screenshot_20230217_104755_CAMPINITY.jpg" width="200" height="400"/> <img src="./readme-images/Screenshot_20230217_174713_CAMPINITY.jpg" width="200" height="400"/><br/>
 
 - 우체통 (목록, 상세)
-<img src="./readme-images/Screenshot_20230217_104820_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_104824_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_104840_CAMPINITY.jpg" width="200" height="400"/><br/>
+
+<img src="./readme-images/Screenshot_20230217_104820_CAMPINITY.jpg" width="200" height="400"/> <img src="./readme-images/Screenshot_20230217_104824_CAMPINITY.jpg" width="200" height="400"/> <img src="./readme-images/Screenshot_20230217_104840_CAMPINITY.jpg" width="200" height="400"/><br/>
 
 - 우체통 (질문, 답변)
-<img src="./readme-images/Screenshot_20230217_104832_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_104844_CAMPINITY.jpg" width="200" height="400"/><br/>
+
+<img src="./readme-images/Screenshot_20230217_104832_CAMPINITY.jpg" width="200" height="400"/> <img src="./readme-images/Screenshot_20230217_104844_CAMPINITY.jpg" width="200" height="400"/><br/>
 
 - 위치 추적 모드
-<img src="./readme-images/Screenshot_20230217_104932_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_104939_CAMPINITY.jpg" width="200" height="400"/><br/>
+
+<img src="./readme-images/Screenshot_20230217_104932_CAMPINITY.jpg" width="200" height="400"/> <img src="./readme-images/Screenshot_20230217_104939_CAMPINITY.jpg" width="200" height="400"/><br/>
 
 - 쪽지 작성 (리뷰 쪽지)
-<img src="./readme-images/Screenshot_20230217_104945_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_105034_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_105030_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_105243_CAMPINITY.jpg" width="200" height="400"/><br/>
+
+<img src="./readme-images/Screenshot_20230217_104945_CAMPINITY.jpg" width="200" height="400"/> <img src="./readme-images/Screenshot_20230217_105034_CAMPINITY.jpg" width="200" height="400"/> <img src="./readme-images/Screenshot_20230217_105030_CAMPINITY.jpg" width="200" height="400"/> <img src="./readme-images/Screenshot_20230217_105243_CAMPINITY.jpg" width="200" height="400"/><br/>
 
 - 쪽지 작성 (자유 쪽지)
-<img src="./readme-images/Screenshot_20230217_105056_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_104909_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_104905_CAMPINITY.jpg" width="200" height="400"/><br/>
+ 
+<img src="./readme-images/Screenshot_20230217_105056_CAMPINITY.jpg" width="200" height="400"/> <img src="./readme-images/Screenshot_20230217_104909_CAMPINITY.jpg" width="200" height="400"/> <img src="./readme-images/Screenshot_20230217_104905_CAMPINITY.jpg" width="200" height="400"/><br/>
 
 - 쪽지 작성 (도움 주기)
-<img src="./readme-images/Screenshot_20230217_172318_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217-093224_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217-111528_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217-092058_CAMPINITY.jpg" width="200" height="400"/>
 
-### 🗺 캠핑장 검색
+<img src="./readme-images/Screenshot_20230217_172318_CAMPINITY.jpg" width="200" height="400"/> <img src="./readme-images/Screenshot_20230217-093224_CAMPINITY.jpg" width="200" height="400"/> <img src="./readme-images/Screenshot_20230217-111528_CAMPINITY.jpg" width="200" height="400"/> <img src="./readme-images/Screenshot_20230217-092058_CAMPINITY.jpg" width="200" height="400"/>
 
----
-
-<img src="./readme-images/Screenshot_20230217_105120_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_105145_CAMPINITY.jpg" width="200" height="400"/><br/>
-
-<img src="./readme-images/Screenshot_20230217_105217_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_105919_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_110000_CAMPINITY.jpg" width="200" height="400"/><br/>
-
-<img src="./readme-images/Screenshot_20230217_110303_CAMPINITY-1.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_174644_CAMPINITY.jpg" width="200" height="400"/><br/>
-
-<img src="./readme-images/Screenshot_20230217_110118_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_105223_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_105235_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_105314_CAMPINITY.jpg" width="200" height="400"/><br/>
-
-<img src="./readme-images/Screenshot_20230217_110359_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_110359_CAMPINITY-1.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_110445_CAMPINITY.jpg" width="200" height="400"/><br/>
-
-<img src="./readme-images/Screenshot_20230217_105320_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_105335_CAMPINITY.jpg" width="200" height="400"/><br/>
-
-<img src="./readme-images/Screenshot_20230217_105258_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_105306_CAMPINITY.jpg" width="200" height="400"/>
-
-### 🗺 큐레이션
-
----
-
-<img src="./readme-images/Screenshot_20230217_110503_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_110506_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_110509_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_110515_CAMPINITY.jpg" width="200" height="400"/>
-
-### 🗺 컬렉션
-
----
-
-<img src="./readme-images/Screenshot_20230217_110709_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_110658_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_110934_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_110715_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_110719_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_110731_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_110736_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_110743_CAMPINITY.jpg" width="200" height="400"/>
 
 ### 🗺 마이페이지
 
----
 
-<img src="./readme-images/Screenshot_20230217_112739_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_112745_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_112828_CAMPINITY.jpg" width="200" height="400"/>
-
-### 🗺 채팅
-
----
-
-<img src="./readme-images/Screenshot_20230217_111023_CAMPINITY.jpg" width="200" height="400"/>
-<img src="./readme-images/Screenshot_20230217_111027_CAMPINITY.jpg" width="200" height="400"/>
+<img src="./readme-images/Screenshot_20230217_112739_CAMPINITY.jpg" width="200" height="400"/> <img src="./readme-images/Screenshot_20230217_112745_CAMPINITY.jpg" width="200" height="400"/>\ <img src="./readme-images/Screenshot_20230217_112828_CAMPINITY.jpg" width="200" height="400"/></br>
 
 
 ### 📌프로젝트 진행기간
@@ -309,11 +211,7 @@
 
 ### 📌Campinity 기획 배경
 
-<img src="./readme-images/KakaoTalk_20230217_121235438.png" width="300" />
-
-<img src="./readme-images/KakaoTalk_20230217_121235596.png" width="300" />
-
-<img src="./readme-images/KakaoTalk_20230217_121235777.png" width="500" />
+<img src="./readme-images/KakaoTalk_20230217_121235438.png" width="300" /> <img src="./readme-images/KakaoTalk_20230217_121235596.png" width="300" /> <img src="./readme-images/KakaoTalk_20230217_121235777.png" width="500" /></br>
 
 캠핑 산업은 지속적으로 커져 감에 반해서 현재 캠핑장과 관련된 자료를 얻을 수 있는 앱과 카페는 거의 없는 편입니다. 있다고 하더라도 보통 예약과 정보 전달에 치중된 경우가 대부분이고, 정보들 역시 여러 플랫폼으로 분산되어 있어서 캠핑에 관한 정보를 얻기 위해서는 여러 플랫폼을 방문해야 합니다. 보통 사용자들은 캠핑시에는 위생시설, 접근성, 사이트 편리성을 주로 고려하여 캠핑장을 선택한다고 합니다. 그러나 위생시설이나 접근성 같은 정보들은 현재의 플랫폼들에서 얻기에는 무리가 있습니다.
 
@@ -376,100 +274,8 @@
 ![KakaoTalk_20230217_121808980.png](./readme-images/KakaoTalk_20230217_121808980.png)
 
 [https://nosy-elbow-d3d.notion.site/REST-API-27368aa23a124e3588456d57a5766905](https://www.notion.so/REST-API-27368aa23a124e3588456d57a5766905)
+</br>
 
-## 📱 Android
-
-> 사용한 라이브러리
-> 
-
-| Name | Description |
-| --- | --- |
-| Navigation | 프래그먼트 전환 라이브러리 |
-| Glide | 이미지 로딩 라이브러리 |
-| ViewModel | 수명주기 고려 데이터를 저장, 관리 라이브러리 |
-| Coroutine | 비동기 처리 라이브러리 |
-| TedPermission | 안드로이드 권한 라이브러리 |
-| Retrofit | HTTP 통신 라이브러리 |
-| SimpleRatingBar | RatingBar 커스텀 라이브러리 |
-| Hilt | 의존성 주입 라이브러리 |
-| Kakao API | 카카오 소셜 로그인 |
-| Kakao Map API | 카카오 지도 라이브러리 |
-| Lottie | 안드로이드 애니메이션 라이브러리 |
-
-> 디렉토리 구조
-> 
-
-```
-📦campinity
- ┣ 📂common
- ┃ ┗ 📂util
- ┣ 📂data
- ┃ ┣ 📂local
- ┃ ┃ ┗ 📂datasource
- ┃ ┗ 📂remote
- ┃ ┃ ┣ 📂datasource
- ┃ ┃ ┃ ┣ 📂auth
- ┃ ┃ ┃ ┣ 📂base
- ┃ ┃ ┃ ┣ 📂chat
- ┃ ┃ ┃ ┣ 📂collection
- ┃ ┃ ┃ ┣ 📂communitycampsite
- ┃ ┃ ┃ ┣ 📂curation
- ┃ ┃ ┃ ┣ 📂fcm
- ┃ ┃ ┃ ┣ 📂home
- ┃ ┃ ┃ ┣ 📂mypage
- ┃ ┃ ┃ ┣ 📂note
- ┃ ┃ ┃ ┣ 📂search
- ┃ ┃ ┃ ┗ 📂user
- ┃ ┃ ┣ 📂repository
- ┃ ┃ ┣ 📂service
- ┣ 📂di
- ┣ 📂domain
- ┃ ┣ 📂entity
- ┃ ┃ ┣ 📂auth
- ┃ ┃ ┣ 📂chat
- ┃ ┃ ┣ 📂collection
- ┃ ┃ ┣ 📂community
- ┃ ┃ ┣ 📂curation
- ┃ ┃ ┣ 📂fcm
- ┃ ┃ ┣ 📂home
- ┃ ┃ ┣ 📂mypage
- ┃ ┃ ┣ 📂search
- ┃ ┃ ┗ 📂user
- ┃ ┣ 📂repository
- ┃ ┗ 📂usecase
- ┃ ┃ ┣ 📂auth
- ┃ ┃ ┣ 📂chat
- ┃ ┃ ┣ 📂collection
- ┃ ┃ ┣ 📂community
- ┃ ┃ ┣ 📂curation
- ┃ ┃ ┣ 📂fcm
- ┃ ┃ ┣ 📂home
- ┃ ┃ ┣ 📂mypage
- ┃ ┃ ┣ 📂note
- ┃ ┃ ┣ 📂search
- ┃ ┃ ┗ 📂user
- ┣ 📂presentation
- ┃ ┣ 📂base
- ┃ ┣ 📂chat
- ┃ ┣ 📂collection
- ┃ ┣ 📂community
- ┃ ┃ ┣ 📂campsite
- ┃ ┃ ┣ 📂note
- ┃ ┣ 📂curation
- ┃ ┣ 📂home
- ┃ ┣ 📂join
- ┃ ┣ 📂mypage
- ┃ ┣ 📂onboarding
- ┃ ┣ 📂search
- ┃ ┗ 📂splash
- ┗ 📜ApplicationClass.kt
-```    
-
-> 아키텍처 구조
-> 
-
-> 
-> 
 
 ## 💽 Back-End
 
@@ -494,135 +300,71 @@
 | spring-boot-starter-data-redis | 휘발성 인메모리 저장소, 중복처리에 사용 |  |
 | spring boot batch | 포인트 정산, 알림 발송과 같은 scheduled로 지정된 시간의 일괄처리에 사용 |  |
 
+
 > 디렉토리 구조
 > 
 
 ```
 📦Server
  ┣ 📂demo-api-server
- ┃ ┣ 📂src
- ┃ ┃ ┣ 📂main
- ┃ ┃ ┃ ┗ 📂java
- ┃ ┃ ┃ ┃ ┗ 📂com
- ┃ ┃ ┃ ┃ ┃ ┗ 📂ssafy
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂campinity
+ ...
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂api
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂config
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂security
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂jwt
+ ...
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂controller
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂converter
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂dto
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂notification
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂req
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂res
+ ...
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂service
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂impl
+ ...
  ┃ ┃ ┗ 📂test
- ┃ ┃ ┃ ┣ 📂java
- ┃ ┃ ┃ ┃ ┗ 📂com
- ┃ ┃ ┃ ┃ ┃ ┗ 📂ssafy
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂campinity
+ ...
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂demo
  ┃ ┃ ┃ ┗ 📂resources
  ┣ 📂demo-batch-server
- ┃ ┣ 📂src
- ┃ ┃ ┣ 📂main
- ┃ ┃ ┃ ┣ 📂java
- ┃ ┃ ┃ ┃ ┗ 📂com
- ┃ ┃ ┃ ┃ ┃ ┗ 📂ssafy
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂campinity
+ ...
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂demo
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂batch
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂campinityRepository
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂config
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂dto
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂dbTojson
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂gocamp
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂req
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂res
+ ...
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂entity
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂job
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂repository
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂scheduler
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂service
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂impl
+ ...
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂writer
  ┃ ┃ ┃ ┗ 📂resources
- ┃ ┃ ┃ ┃ ┣ 📂sql
+ ...
  ┃ ┃ ┗ 📂test
- ┃ ┃ ┃ ┣ 📂java
- ┃ ┃ ┃ ┃ ┗ 📂com
- ┃ ┃ ┃ ┃ ┃ ┗ 📂ssafy
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂campinity
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂demo
+ ...
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂batch
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂config
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂JobTest
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂multiDatabase
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂service
  ┃ ┃ ┃ ┗ 📂resources
- ┃ ┃ ┃ ┃ ┣ 📂db
- ┃ ┃ ┃ ┃ ┃ ┗ 📂migration
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂campinity
+ ...
  ┣ 📂demo-core
- ┃ ┣ 📂src
- ┃ ┃ ┣ 📂main
- ┃ ┃ ┃ ┣ 📂java
- ┃ ┃ ┃ ┃ ┗ 📂com
- ┃ ┃ ┃ ┃ ┃ ┗ 📂ssafy
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂campinity
+ ...
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂core
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂config
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂dto
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂entity
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂answer
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂campsite
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂chat
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂curation
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂fcm
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂listener
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂member
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂message
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂MyCollection
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂question
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂review
+ ...
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂exception
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂repository
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂answer
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂campsite
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂custom
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂chatting
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂curation
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂fcm
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂member
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂message
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂myCollection
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂question
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂redis
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂review
+ ...
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂service
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂impl
+ ...
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂utils
  ┃ ┃ ┃ ┗ 📂resources
- ┃ ┃ ┃ ┃ ┣ 📂firebase
- ┃ ┃ ┃ ┃ ┣ 📂sql
+ ...
  ┃ ┃ ┗ 📂test
- ┃ ┃ ┃ ┣ 📂java
- ┃ ┃ ┃ ┃ ┗ 📂com
- ┃ ┃ ┃ ┃ ┃ ┗ 📂ssafy
+ ...
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂campinity
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂core
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂entity
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂campsite
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂question
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂review
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂repository
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂campsite
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂chat
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂member
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂myCollection
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂service
+ ...
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂demo
  ┃ ┃ ┃ ┗ 📂resources
  ┣ 📂gradle
